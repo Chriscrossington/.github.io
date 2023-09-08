@@ -1,2 +1,4 @@
-# .github.io
-Personal Blog
+# Here are my Thoughts
+.
+.
+.
